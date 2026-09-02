@@ -11,6 +11,8 @@
 # Welcone 👋
 
 ## Members
+
+### Class of 2024
 | ID | Name |
 | --- | ----------- |
 | [@zhangjingbo6](https://github.com/zhangjingbo6) | Jingbo Zhang |
@@ -18,6 +20,9 @@
 | [@steven-wen](https://github.com/steven-wen) | Bowen Zhang |
 | [@asd1699](https://github.com/asd1699) | Xuewei Min |
 | [@asdsdasd83yr724g](https://github.com/asdsdasd83yr724g) | Yifan Jia |
+
+### Class of 2025
+| ID | Name |
 | --- | ----------- |
 | [@potato-ding](https://github.com/potato-ding) | Yi Ding |
 | [@lz921339](https://github.com/lz921339) | Jiajian Ling |
