@@ -30,3 +30,11 @@
 | [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang |
 | [@tan1369](https://github.com/tan1369) | Qi Xu |
 | [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |
+
+### Class of 2026
+| ID | Name |
+| --- | ----------- |
+| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |
+| [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |
+| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |
+| [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |
