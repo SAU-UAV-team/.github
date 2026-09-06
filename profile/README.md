@@ -17,7 +17,7 @@
 | --- | ----------- | --- | --- | --- |
 | [@zhangjingbo6](https://github.com/zhangjingbo6) | Jingbo Zhang |  [xxx](https://github.com/SAU-UAV-team/Wave-First-Work)|  |  |
 | [@Wenjun_Li](https://github.com/KYasmaine) | Wenjun Li |  |  |  |
-| [@steven-wen](https://github.com/steven-wen) | Bowen Zhang | https://github.com/steven-wen/SCG-Loc/tags  |  |  |
+| [@steven-wen](https://github.com/steven-wen) | Bowen Zhang | https://github.com/steven-wen/SCG-Loc  |  |  |
 | [@asd1699](https://github.com/asd1699) | Xuewei Min |  |  |  |
 | [@asdsdasd83yr724g](https://github.com/asdsdasd83yr724g) | Yifan Jia |  |  |  |
 
