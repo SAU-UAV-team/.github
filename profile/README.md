@@ -15,7 +15,7 @@
 ### Class of 2024
 | ID | Name | Work_01 | Work_02 | Work_03 |
 | --- | ----------- | --- | --- | --- |
-| [@zhangjingbo6](https://github.com/zhangjingbo6) | Jingbo Zhang |  https://github.com/SAU-UAV-team/Wave-First-Work|  |  |
+| [@zhangjingbo6](https://github.com/zhangjingbo6) | Jingbo Zhang |  [xxx](https://github.com/SAU-UAV-team/Wave-First-Work)|  |  |
 | [@Wenjun_Li](https://github.com/KYasmaine) | Wenjun Li |  |  |  |
 | [@steven-wen](https://github.com/steven-wen) | Bowen Zhang |  |  |  |
 | [@asd1699](https://github.com/asd1699) | Xuewei Min |  |  |  |
