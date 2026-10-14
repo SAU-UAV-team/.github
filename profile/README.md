@@ -22,20 +22,20 @@
 | [@asdsdasd83yr724g](https://github.com/asdsdasd83yr724g) | Yifan Jia |[amscnet](https://github.com/SAU-UAV-team/amscnet)  |  |  |
 
 ### Class of 2025
-| ID | Name | Work_01 | Work_02 | Work_03 |
-| --- | ----------- | --- | --- | --- |
-| [@potato-ding](https://github.com/potato-ding) | Yi Ding |  |  |  |
-| [@lz921339](https://github.com/lz921339) | Jiajian Ling |  |  |  |
-| [@ShiYu0](https://github.com/ShiYu0) | Haiyin Liu |  |  |  |
-| [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) |  |  |
-| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  |
-| [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |  |  |  |
+| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@07周 |
+| --- | ----------- | --- | --- | --- | --- |
+| [@potato-ding](https://github.com/potato-ding) | Yi Ding |  |  |  | 未提交 |
+| [@lz921339](https://github.com/lz921339) | Jiajian Ling |  |  |  | 已完成 |
+| [@ShiYu0](https://github.com/ShiYu0) | Haiyin Liu |  |  |  | 已完成 |
+| [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) |  |  | 未提交 |
+| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 未提交 |
+| [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |  |  |  |  |
 
 ### Class of 2026
-| ID | Name | Work_01 | Work_02 | Work_03 |
-| --- | ----------- | --- | --- | --- |
-| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  |
-| [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  |
-| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  |
-| [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |  |  |  |
+| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@07周 |
+| --- | ----------- | --- | --- | --- | --- |
+| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 未提交 |
+| [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 未提交 |
+| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 未提交 |
+| [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |  |  |  | 提交缺笔记 |
 
