@@ -34,7 +34,7 @@
 ### Class of 2026
 | ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@07周 |
 | --- | ----------- | --- | --- | --- | --- |
-| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 已交4篇·差1 |
+| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 已完成 |
 | [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 已完成 |
 | [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 未提交 |
 | [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |  |  |  | 提交缺笔记 |
