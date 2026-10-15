@@ -28,7 +28,7 @@
 | [@lz921339](https://github.com/lz921339) | Jiajian Ling |  |  |  | 已完成 |
 | [@ShiYu0](https://github.com/ShiYu0) | Haiyin Liu |  |  |  | 已完成 |
 | [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) |  |  | 已完成 |
-| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 未提交 |
+| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 已完成 |
 | [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |  |  |  |  |
 
 ### Class of 2026
@@ -36,6 +36,6 @@
 | --- | ----------- | --- | --- | --- | --- |
 | [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 已完成 |
 | [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 已完成 |
-| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 未提交 |
+| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 提交缺笔记 |
 | [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |  |  |  | 已完成 |
 
