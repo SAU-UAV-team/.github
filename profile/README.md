@@ -35,7 +35,7 @@
 | ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@08周 |
 | --- | ----------- | --- | --- | --- | --- |
 | [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 未提交 |
-| [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 未提交 |
+| [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 提交缺笔记 |
 | [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 已完成 |
 | [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |  |  |  | 已完成 |
 
