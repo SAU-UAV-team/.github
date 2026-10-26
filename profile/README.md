@@ -27,7 +27,7 @@
 | [@potato-ding](https://github.com/potato-ding) | Yi Ding |  |  |  | 已完成 |
 | [@lz921339](https://github.com/lz921339) | Jiajian Ling |  |  |  | 未提交 |
 | [@ShiYu0](https://github.com/ShiYu0) | Haiyin Liu |  |  |  | 未提交 |
-| [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) |  |  | 未提交 |
+| [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) |  |  | 已完成 |
 | [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 未提交 |
 | [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |  |  |  |  |
 
