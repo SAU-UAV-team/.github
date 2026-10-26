@@ -22,20 +22,20 @@
 | [@asdsdasd83yr724g](https://github.com/asdsdasd83yr724g) | Yifan Jia |[amscnet](https://github.com/SAU-UAV-team/amscnet)  |  |  |
 
 ### Class of 2025
-| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@08周 |
+| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@09周 |
 | --- | ----------- | --- | --- | --- | --- |
 | [@potato-ding](https://github.com/potato-ding) | Yi Ding |  |  |  | 未提交 |
 | [@lz921339](https://github.com/lz921339) | Jiajian Ling |  |  |  | 未提交 |
-| [@ShiYu0](https://github.com/ShiYu0) | Haiyin Liu |  |  |  | 已完成 |
+| [@ShiYu0](https://github.com/ShiYu0) | Haiyin Liu |  |  |  | 未提交 |
 | [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) |  |  | 未提交 |
-| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 已完成 |
+| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 未提交 |
 | [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |  |  |  |  |
 
 ### Class of 2026
-| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@08周 |
+| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@09周 |
 | --- | ----------- | --- | --- | --- | --- |
-| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 已完成 |
-| [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 已完成 |
-| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 已完成 |
-| [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |  |  |  | 已完成 |
+| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 未提交 |
+| [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 未提交 |
+| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 未提交 |
+| [@a728095461-lgtm](https://github.com/a728095461-lgtm) | Fuwei Chen |  |  |  | 未提交 |
 
