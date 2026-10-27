@@ -36,6 +36,6 @@
 | --- | ----------- | --- | --- | --- | --- |
 | [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 已完成 |
 | [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 已完成 |
-| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 未提交 |
+| [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 已完成 |
 | [@Naps4Life](https://github.com/Naps4Life) | Fuwei Chen |  |  |  | 已完成 |
 
