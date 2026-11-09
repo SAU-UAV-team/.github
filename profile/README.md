@@ -22,7 +22,7 @@
 | [@asdsdasd83yr724g](https://github.com/asdsdasd83yr724g) | Yifan Jia |[amscnet](https://github.com/SAU-UAV-team/amscnet) ⚠️ |  |  |
 
 ### Class of 2025
-| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@10周 |
+| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@11周 |
 | --- | ----------- | --- | --- | --- | --- |
 | [@potato-ding](https://github.com/potato-ding) | Yi Ding |  |  |  |  |
 | [@lz921339](https://github.com/lz921339) | Jiajian Ling |  |  |  | 已完成 ✅ |
@@ -32,7 +32,7 @@
 | [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |  |  |  |  |
 
 ### Class of 2026
-| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@10周 |
+| ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@11周 |
 | --- | ----------- | --- | --- | --- | --- |
 | [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 已完成 ✅ |
 | [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 已完成 ✅ |
