@@ -18,7 +18,7 @@
 | [@zhangjingbo6](https://github.com/zhangjingbo6) | Jingbo Zhang |  [OAG-Net](https://github.com/SAU-UAV-team/Wave-First-Work) ✅|  [GAWE](https://github.com/SAU-UAV-team/Wave-Second-Work.git) ⚠️ |  |
 | [@Wenjun_Li](https://github.com/KYasmaine) | Wenjun Li | [HSF-STGODE](https://github.com/SAU-UAV-team/HSF-STGODE) ⚠️ | [FAST-STG](https://github.com/SAU-UAV-team/FAST-STG) ✅ | [MetaRiem](https://github.com/SAU-UAV-team/MetaRiemLOD) ⚠️ |
 | [@steven-wen](https://github.com/steven-wen) | Bowen Zhang | [SCG-Loc](https://github.com/SAU-UAV-team/SCG-Loc) ✅ |  |  |
-| [@asd1699](https://github.com/asd1699) | Xuewei Min | [SFERR](https://github.com/SAU-UAV-team/SFERR) |  |  |
+| [@asd1699](https://github.com/asd1699) | Xuewei Min | [SFERR](https://github.com/SAU-UAV-team/SFERR) ⚠️ |  |  |
 | [@asdsdasd83yr724g](https://github.com/asdsdasd83yr724g) | Yifan Jia |[amscnet](https://github.com/SAU-UAV-team/amscnet) ✅ |  |  |
 
 ### Class of 2025
