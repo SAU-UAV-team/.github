@@ -27,14 +27,14 @@
 | [@potato-ding](https://github.com/potato-ding) | Yi Ding | [EfficientGeo](https://github.com/SAU-UAV-team/repvit-uav) ✅ |  |  |  |
 | [@lz921339](https://github.com/lz921339) | Jiajian Ling |  |  |  | 未提交 ⚠️ |
 | [@ShiYu0](https://github.com/ShiYu0) | Haiyin Liu |  |  |  | 未提交 ⚠️ |
-| [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) ⚠️ |  |  | 未提交 ⚠️ |
-| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 未提交 ⚠️ |
+| [@Kidr1cE](https://github.com/Kidr1cE) | Zisheng Kang | [FWPGeo](https://github.com/SAU-UAV-team/FWPGeo) ⚠️ |  |  | 已完成 ✅ |
+| [@tan1369](https://github.com/tan1369) | Qi Xu |  |  |  | 已完成 ✅ |
 | [@KiraKira76](https://github.com/KiraKira76) | Liming Wei |  |  |  |  |
 
 ### Class of 2026
 | ID | Name | Work_01 | Work_02 | Work_03 | SAU_Cerebrum@13周 |
 | --- | ----------- | --- | --- | --- | --- |
-| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 未提交 ⚠️ |
+| [@xqs-git](https://github.com/xqs-git) | Qisheng Xu |  |  |  | 已完成 ✅ |
 | [@Ksx2004](https://github.com/Ksx2004) | Shengxi Kang |  |  |  | 已完成 ✅ |
 | [@Parasol20415](https://github.com/Parasol20415) | Juntong Wang |  |  |  | 已完成 ✅ |
 | [@Naps4Life](https://github.com/Naps4Life) | Fuwei Chen |  |  |  | 已完成 ✅ |
